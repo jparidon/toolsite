@@ -31,7 +31,11 @@
     {
       "id": "LE04",
       "title": "Metrische Räume und Topologie",
-      "week": "Woche 4 · 02.–08.11."
+      "week": "Woche 4 · 02.–08.11.",
+      "file": "le04.html",
+      "sections": 16,
+      "storagePrefix": "homa1-le04-",
+      "updated": "2026-11-04"
     },
     {
       "id": "LE05",
