@@ -40,7 +40,11 @@
     {
       "id": "LE05",
       "title": "Folgen I: Konvergenz, Cauchy, Fixpunktsatz, Rekursionen",
-      "week": "Woche 5 · 09.–15.11."
+      "week": "Woche 5 · 09.–15.11.",
+      "file": "le05.html",
+      "sections": 16,
+      "storagePrefix": "homa1-le05-",
+      "updated": "2026-11-12"
     },
     {
       "id": "LE06",
